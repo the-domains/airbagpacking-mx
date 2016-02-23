@@ -1,0 +1,28 @@
+name: airbagpacking.mx
+favicon: null
+layout_spectrum: 0.7286519517656416
+typography_spectrum: 0.4352277556899935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.09590362897142768
+  lightness: 0.5292686095926911
+  saturation: 0.3108923251274973
+  rhythmicContrast: 0.9047513550613075
+purpose: []
